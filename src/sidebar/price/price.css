@@ -1,0 +1,6 @@
+
+.price{
+      display: flex;
+    flex-direction: column;
+    margin-block: 1rem;
+}

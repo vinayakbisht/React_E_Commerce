@@ -1,0 +1,19 @@
+
+.recommended{
+    margin-left: 19vmax;
+    position: sticky;
+    z-index: 900;
+    top: 5rem;
+    padding-block: 1rem;
+    background: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.recommended-btns{
+    display: flex;
+}
+
+.heading{
+    font-size: 20px;
+}

@@ -1,0 +1,44 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    margin: 0;
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+li{
+    list-style: none;
+}
+
+.btns{
+    padding: 10px 20px;
+    margin-right: 6px;
+    background: transparent;
+    border: 0.6px solid #ccc;
+    border-radius: 5px;
+    color: #323232;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 1rem;
+    transition: all 0.3s ease-in-out;
+}
+
+.btns:hover{
+    border-color: rgb(193, 37, 216);;
+    color: rgb(193, 37, 216);
+}
+
+.btns.active{
+    background-color: rgb(193, 37, 216);;
+    color: white;
+}
