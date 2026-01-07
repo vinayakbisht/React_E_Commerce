@@ -3,7 +3,7 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 20px;
+    padding: 14px;
     border-bottom: 2px solid #f3f3f3;
     z-index: 100;
     position: sticky;
