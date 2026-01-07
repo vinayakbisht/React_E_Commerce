@@ -3,4 +3,5 @@
       display: flex;
     flex-direction: column;
     margin-block: 1rem;
+    margin-left: 1rem;
 }
